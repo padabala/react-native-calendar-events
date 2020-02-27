@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendar-events-cross",
+  "name": "@padabala/react-native-calendar-events",
   "version": "1.7.3",
   "author": "Will McMahan",
   "license": "MIT",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/padabala/react-native-calendar-events-cross"
+    "url": "https://github.com/wmcmahan/react-native-calendar-events"
   },
   "bugs": {
-    "url": "https://github.com/padabala/react-native-calendar-events-cross/issues"
+    "url": "https://github.com/wmcmahan/react-native-calendar-events/issues"
   },
-  "homepage": "https://github.com/padabala/react-native-calendar-events-cross",
+  "homepage": "https://github.com/wmcmahan/react-native-calendar-events",
   "description": "React Native module for IOS Calendar Events",
   "keywords": [
     "react-native",
